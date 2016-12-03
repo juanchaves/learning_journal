@@ -1,4 +1,4 @@
-# LJ Code 201
+# Learning Journal Code 201
 
 ## Day 1 - Nov 29, 2016
 

@@ -1,6 +1,6 @@
-# LJ Code 201
+# Learning Journal Code 201
 
-## Day 1 - Nov 30, 2016
+## Day 3 - Nov 30, 2016
 
 Today we talked about a lot of things but the ones I wrote down were the following:
 
